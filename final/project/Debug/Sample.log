@@ -1,0 +1,63 @@
+﻿Build started 2015/12/9 1:23:00.
+     1>Project "F:\Study\CS550\final\project\Sample.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         F:\Program Files\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo".\Debug/" /Fd".\Debug/vc140.pdb" /Gd /TP /analyze- /errorReport:prompt sample.cpp
+         sample.cpp
+     1>f:\study\cs550\final\project\sphere.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sphere.cpp(60): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sphere.cpp(61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sphere.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sphere.cpp(65): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sphere.cpp(66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sphere.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sphere.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sphere.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sphere.cpp(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(192): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>f:\study\cs550\final\project\sample.cpp(300): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>f:\study\cs550\final\project\sample.cpp(505): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>f:\study\cs550\final\project\sample.cpp(509): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(513): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(517): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(522): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(526): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(530): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(534): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(538): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(567): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(570): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(571): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(574): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(577): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(578): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(581): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(584): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(591): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(596): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(599): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(600): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(601): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(604): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(607): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(608): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(611): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(614): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(615): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(618): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(621): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(629): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(632): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(635): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(636): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(639): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(643): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\study\cs550\final\project\sample.cpp(1314): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+       Link:
+         F:\Program Files\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/Sample.exe" /INCREMENTAL:NO /NOLOGO glew32.lib freeglut.lib glu32.lib opengl32.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:".\Debug/Sample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Debug\Sample.lib" /MACHINE:X86 /SAFESEH .\Debug/sample.obj
+     1>sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+         Sample.vcxproj -> F:\Study\CS550\final\project\.\Debug\Sample.exe
+     1>Done Building Project "F:\Study\CS550\final\project\Sample.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.82
